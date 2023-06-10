@@ -45,7 +45,7 @@ a {
 
 .bg-img3{
     /* background-color: #ccc; */
-    /* background-size: cover; */
+    background-size: cover;
     background-image: url(thieunguyen1107.github.io/images/img3.jpg);
     height: 500px;
     /* background-repeat: no-repeat; */
