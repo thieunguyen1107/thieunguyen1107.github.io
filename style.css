@@ -31,7 +31,7 @@ a {
     background-image: url(/images/img1.jpg);
     /* width: auto; */
     height: 500px;
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
 
 }
 
@@ -40,7 +40,7 @@ a {
     background-size: cover;
     background-image: url(/images/img2.jpg);
     height: 500px;
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
 }
 
 .bg-img3{
@@ -48,7 +48,7 @@ a {
     /* background-size: cover; */
     background-image: url(/images/img3.jpg);
     height: 500px;
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
 }
 
 .feedback{
