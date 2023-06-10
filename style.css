@@ -28,7 +28,7 @@ a {
 .bg-img1{
     /* background-color: #ccc; */
     background-size: cover;
-    background-image: url(thieunguyen1107.github.io/images/img1.jpg);
+    background-image: url(/images/img1.jpg);
     /* width: auto; */
     height: 500px;
     /* background-repeat: no-repeat; */
