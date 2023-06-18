@@ -46,7 +46,7 @@ a {
     background-size: cover;
     background-image: url(https://thieunguyen1107.github.io/images/img2.jpg);
     height: 500px;
-    width:auto;
+/*     width:auto; */
     /* background-repeat: no-repeat; */
 }
 
@@ -55,7 +55,7 @@ a {
     background-size: cover;
     background-image: url(https://thieunguyen1107.github.io/images/img3.jpg);
     height: 500px;
-    width:auto;
+/*     width:auto; */
     /* background-repeat: no-repeat; */
 }
 
